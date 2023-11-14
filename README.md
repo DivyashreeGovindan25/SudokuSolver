@@ -14,9 +14,15 @@ Since this project is developed using java swing technology, it can be run only 
 
 ## Output
 ![image](https://github.com/DivyashreeGovindan25/SudokuSolver/assets/136978089/fadffcd6-e220-4047-b0e5-e8a16b16de02)
+
 ![image](https://github.com/DivyashreeGovindan25/SudokuSolver/assets/136978089/b03e41a4-badb-41dc-ace6-e46cc6d5b797)
+
 ![image](https://github.com/DivyashreeGovindan25/SudokuSolver/assets/136978089/b137b6e7-2c69-4821-b8db-7e920dc8bf96)
+
 ![image](https://github.com/DivyashreeGovindan25/SudokuSolver/assets/136978089/9910b794-7a32-412b-9ee1-849b54f64384)
+
 ![image](https://github.com/DivyashreeGovindan25/SudokuSolver/assets/136978089/7c655583-5b3a-48ba-9779-6fab2d504710)
+
 ![image](https://github.com/DivyashreeGovindan25/SudokuSolver/assets/136978089/6269ed9c-cd0c-4855-b0a3-77ecb3f7ac34)
+
 ![image](https://github.com/DivyashreeGovindan25/SudokuSolver/assets/136978089/c5031ac5-67d2-4170-b06e-f980fce06bcd)
